@@ -1,0 +1,99 @@
+.photo1 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.kG2Wjwi_9JE__KX1uNtlDgHaE6?pid=ImgDet&rs=1");
+    background-size: cover;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo2 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.k5-MTcRQ-yblWmcN48LRgAHaE8?pid=ImgDet&rs=1");
+    background-position: top;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo3 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/R.4dc13f7500b4d7963d6412a0bdd08ad0?rik=s3YW1TTj6QN2bg&riu=http%3a%2f%2fd3e1m60ptf1oym.cloudfront.net%2f832f25cb-4cb0-4075-ab40-3d6f6ba89718%2fFerpecle_torrent_pont_uxga.jpg&ehk=yGBuMZ%2fH0JZdoBoJmdCdxhQisoMr2XSgMvhYwWEg9wk%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo4 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.L7JhKEvS3ZeTi_5qi4s8BAHaE6?pid=ImgDet&rs=1");
+    background-position: bottom;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo5 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/R.7da453a1d12d4c3d77cf901f1edec89d?rik=Jrxsksxsgn7Jpg&riu=http%3a%2f%2fwww.photo-paysage.com%2falbums%2fuserpics%2f10001%2flac-d-emosson-02.jpg&ehk=qFfiHUIpb%2fOnMXj%2bVU5VFbvHLX3ik4sGm9mmJpoVQJs%3d&risl=1&pid=ImgRaw&r=0");
+    background-size: cover;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo6 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.L_yhD91WfpMF7xPNJu7lFwHaE6?pid=ImgDet&rs=1");
+    background-position: left;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo7 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://www.france-montagnes.com/sites/default/files/lac_achartcimages_et_reves.jpg");
+    background-size: cover;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo8 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://i.pinimg.com/originals/e2/64/67/e264673a15e880d47afd02801c867627.jpg");
+    background-position: right;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo9 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://th.bing.com/th/id/OIP.AIkSdVL1ZErKgrabbrDIawHaE6?pid=ImgDet&rs=1");
+    background-size: cover;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
+
+.photo10 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://diapogram.com/upload/2018/04/11/20180411155445-82967b7c.jpg");
+    background-position: center;
+    border: 2px darkgreen dashed;
+    border-radius: 20%;
+    box-shadow: 10px 8px darkblue;
+}
